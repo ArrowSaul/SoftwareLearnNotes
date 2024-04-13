@@ -76,7 +76,7 @@
 
 ###git commit -m "first"
 
-###git push -u origin main
+### git push -u origin main
 
 ## 5.已将代码上传至gitee想将代码上传到github
 
