@@ -46,7 +46,7 @@
 
 ### 2.9.将远程仓库的名称从"origin"改为"gitee"
 
-#### git rename origin gitee
+#### git remote rename origin gitee
 
 ### 2.10.切换到名为"master"的分支
 
@@ -84,13 +84,11 @@
 
 #### git checkout -b main
 
-### 将代码提交一次到main分支
-
-#### git add .
-
-#### git commit -m "first"
-
 ### 在github创建仓库，复制url
+
+### 本地仓库添加名称为 github的远程仓库
+
+#### git remote add github url
 
 ### 设置本地仓库连接远程仓库地址
 
@@ -100,9 +98,15 @@
 
 #### git pull origin main --allow-unrelated-histories
 
+### 将代码提交一次到main分支
+
+#### git add .
+
+#### git commit -m "first"
+
 ### 通过main分支推送代码到github
 
-#### git push origin main --force
+#### git push -u github main:main
 
 
 
