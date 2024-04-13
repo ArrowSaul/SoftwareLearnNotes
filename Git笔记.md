@@ -68,13 +68,13 @@
 
 ### git push -u origin main/master
 
-##4.在本地创建本地仓库做版本控制（我的工作流）
+## 4.在本地创建本地仓库做版本控制（我的工作流）
 
-###git init
+### git init
 
-###git add .
+### git add .
 
-###git commit -m "first"
+### git commit -m "first"
 
 ### git push -u origin main
 
