@@ -167,8 +167,6 @@ include /usr/local/lib/
 /usr/local/lib/
 ```
 
-![img](https://bqxc5tc302q.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTNlMzJhMDBmNjVkNWZhN2U4ZTQxM2I5NTdjYjk0YzVfYURIRWlpZHlCbk9wVUlwa0VxcXJIaHFFcEdBQnA3c1NfVG9rZW46SnQwb2JFRmpwbzFMZUx4VnBnZ2NiMGJUbmxnXzE3MjY5Mjg2NDI6MTcyNjkzMjI0Ml9WNA)
-
 保存后进行重载
 
 ```
@@ -183,7 +181,9 @@ sudo ldconfig
 
 官网：[FFmpeg](https://ffmpeg.org/)
 
-![72693132894](C:\Users\21925\AppData\Local\Temp\1726931328947.png)
+下载后解压并添加系统环境变量
+
+如： D:\develop\ffmpeg-master-latest-win64-gpl\bin
 
 #### 2.终端输入命令推流到指定rtmp服务器
 
