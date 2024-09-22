@@ -6,9 +6,11 @@ Orange Pi Kunpeng Pro 开发板是香橙派联合华为精心打造的高性能�
 
 ## 注意事项
 
-- 开发板硬件规格![img](https://api2.mubu.com/v3/document_image/bd7bd404-99f2-4597-bbb6-2fe4f631c342-21810177.jpg)
-- 开发板接口![img](https://api2.mubu.com/v3/document_image/3131cb05-c7f0-409e-8ff2-5f08dc3377cb-21810177.jpg)
-- 拨码开关使用![img](https://api2.mubu.com/v3/document_image/463a7a1c-7de2-444d-a9a5-079020ed995e-21810177.jpg)
+开发板硬件规格![img](https://api2.mubu.com/v3/document_image/bd7bd404-99f2-4597-bbb6-2fe4f631c342-21810177.jpg)
+
+开发板接口![img](https://api2.mubu.com/v3/document_image/3131cb05-c7f0-409e-8ff2-5f08dc3377cb-21810177.jpg)
+
+拨码开关使用![img](https://api2.mubu.com/v3/document_image/463a7a1c-7de2-444d-a9a5-079020ed995e-21810177.jpg)
 
 ## 制卡
 
